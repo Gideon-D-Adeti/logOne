@@ -14,7 +14,7 @@
 git clone https://github.com/Gideon-D-Adeti/logOne.git
 ```
 
-Or if you have [cloneO](https://github.com/Gideon-D-Adeti/cloneO) setup:
+Or, if you have [cloneO](https://github.com/Gideon-D-Adeti/cloneO) setup:
 
 ```bash
 cloneO https://github.com/Gideon-D-Adeti/logOne.git
@@ -29,7 +29,7 @@ sudo cp logOne/logOne.sh /usr/local/bin/logOne
 sudo chmod +x /usr/local/bin/logOne
 ```
 
-Or if you used [cloneO](https://github.com/Gideon-D-Adeti/cloneO):
+Or, if you used [cloneO](https://github.com/Gideon-D-Adeti/cloneO):
 
 ```bash
 sudo cp logOne.sh /usr/local/bin/logOne
@@ -37,6 +37,8 @@ sudo chmod +x /usr/local/bin/logOne
 ```
 
 ## Usage
+
+To display the one-line git log, simply run:
 
 ```bash
 logOne
